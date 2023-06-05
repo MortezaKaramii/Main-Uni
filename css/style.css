@@ -16,8 +16,8 @@ body{
 
 .container{
     position: relative;
-    width: 400px;
-    height: 105px;
+    width: 405px;
+    height: 110px;
     background: #fff;
     padding: 28px 32px;
     overflow: hidden;
@@ -44,7 +44,7 @@ body{
 }
 
 .search-box input::placeholder{
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 500;
     color: #06283D;
     text-transform: capitalize;
